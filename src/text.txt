@@ -1,0 +1,1 @@
+[(<currency.models.Currency object at 0x00000208ED0BCFA0>,)]
