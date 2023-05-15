@@ -23,9 +23,11 @@
 ### База данных<a name="subparagraph2"></a>
 В проекте используется база данных PostgreSQL.
 Основные таблицы.
+
 <img src="https://github.com/russe19/financial-exchange/assets/116742525/1fa05eaf-075e-4324-8d77-ff153f1e30e9" width="500" />
 
 Получение всех элементов из таблицы currency:
+
 <img src="https://github.com/russe19/financial-exchange/assets/116742525/1a6ea05c-3c6b-42d0-9ed9-f4873b4df2ba" width="500" />
 
 ### Frontend на React<a name="subparagraph3"></a>
