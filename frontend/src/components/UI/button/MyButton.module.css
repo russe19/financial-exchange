@@ -1,0 +1,10 @@
+.myBtn {
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 15px;
+    color: black;
+    font-size: 16px;
+    background: aliceblue;
+    border: 1px solid white;
+    cursor: pointer;
+    border-radius: 2em;
+}

@@ -1,0 +1,7 @@
+.post_curr {
+    display: flex;
+    border: 2px solid black;
+    margin: 12px;
+    justify-content: space-between;
+    background-color: #D9E9E9;
+}
